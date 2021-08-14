@@ -1,0 +1,56 @@
+@baseURL= http://localhost:3000/api
+
+@resourceName = products
+
+# Products
+
+# @name getAll
+GET {{baseURL}}/{{resourceName}}
+
+###
+
+# @name filterProducts
+GET {{baseURL}}/{{resourceName}}?name_like=t
+
+###
+
+# @name Pagination
+GET {{baseURL}}/{{resourceName}}?_page=1&_limit=20
+
+###
+
+# @name sort
+GET {{baseURL}}/{{resourceName}}?_sort=price&_order=desc
+
+###
+
+# @name addNew
+POST {{baseURL}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "categoryId": "6d494c00-0445-4d47-a5c4-89d094044f3d",
+    "name": "Gorgeous Plastic Car",
+    "color": "lime",
+    "price": 214,
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "thumbnailUrl": "http://placeimg.com/400/400"
+}
+
+###
+
+# @name update
+PATCH {{baseURL}}/{{resourceName}}/k-ONCs0
+Content-Type: application/json
+
+{
+    "name": "Gorgeous Plastic Car Update",
+    "color": "red",
+    "price": 950
+  }
+
+###
+
+# @name remove
+DELETE {{baseURL}}/posts/1
+Content-Type: application/json

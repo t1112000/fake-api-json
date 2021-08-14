@@ -1,0 +1,31 @@
+@baseURL= http://localhost:3000/api
+
+
+#
+
+GET {{baseURL}}/categories
+
+###
+
+POST {{baseURL}}/categories
+Content-Type: application/json
+
+{
+    "id":2,
+    "title":"json-server 2",
+    "author": "typicode 2"
+}
+
+###
+
+PATCH {{baseURL}}/categories/1
+Content-Type: application/json
+
+{
+    "title":"json-server 2"
+}
+
+###
+
+DELETE {{baseURL}}/categories/1
+Content-Type: application/json

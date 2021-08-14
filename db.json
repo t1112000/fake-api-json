@@ -1,0 +1,163 @@
+{
+  "categories": [
+    {
+      "id": "6d494c00-0445-4d47-a5c4-89d094044f3d",
+      "name": "Garden",
+      "createdAt": 1628919913627,
+      "updatedAt": 1628919913627
+    },
+    {
+      "id": "2ca33850-3cd4-4d21-9c71-41a453974ed0",
+      "name": "Outdoors",
+      "createdAt": 1628919913628,
+      "updatedAt": 1628919913628
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "6d494c00-0445-4d47-a5c4-89d094044f3d",
+      "id": "6362b01c-8600-4c99-bf4f-0206429a5aad",
+      "name": "Gorgeous Plastic Car",
+      "color": "lime",
+      "price": 214,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1628919913628,
+      "updatedAt": 1628919913628,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6d494c00-0445-4d47-a5c4-89d094044f3d",
+      "id": "c4cd30ba-4299-43d6-b3ae-5f0939d2399d",
+      "name": "Tasty Steel Table",
+      "color": "mint green",
+      "price": 967,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1628919913628,
+      "updatedAt": 1628919913628,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6d494c00-0445-4d47-a5c4-89d094044f3d",
+      "id": "2d9a6f68-c5a8-4745-bf01-871c251f1e36",
+      "name": "Refined Granite Keyboard",
+      "color": "fuchsia",
+      "price": 570,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1628919913628,
+      "updatedAt": 1628919913628,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6d494c00-0445-4d47-a5c4-89d094044f3d",
+      "id": "81c16674-edf4-4343-8da5-da0f2d64eed9",
+      "name": "Tasty Soft Computer",
+      "color": "lime",
+      "price": 658,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1628919913629,
+      "updatedAt": 1628919913629,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6d494c00-0445-4d47-a5c4-89d094044f3d",
+      "id": "5dd1fc7f-beea-49b5-ba72-95b3b11f7556",
+      "name": "Intelligent Steel Cheese",
+      "color": "tan",
+      "price": 655,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1628919913629,
+      "updatedAt": 1628919913629,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2ca33850-3cd4-4d21-9c71-41a453974ed0",
+      "id": "039fcf7a-a385-4a07-a90b-e6027dbbf810",
+      "name": "Licensed Granite Chicken",
+      "color": "pink",
+      "price": 118,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1628919913629,
+      "updatedAt": 1628919913629,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2ca33850-3cd4-4d21-9c71-41a453974ed0",
+      "id": "fe0231e5-f10c-4c73-84f5-b7ac25358e9a",
+      "name": "Ergonomic Metal Gloves",
+      "color": "white",
+      "price": 37,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1628919913629,
+      "updatedAt": 1628919913629,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2ca33850-3cd4-4d21-9c71-41a453974ed0",
+      "id": "a0d81366-2f25-41e1-9496-a938d9259b92",
+      "name": "Awesome Metal Fish",
+      "color": "blue",
+      "price": 98,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1628919913629,
+      "updatedAt": 1628919913629,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2ca33850-3cd4-4d21-9c71-41a453974ed0",
+      "id": "28beda16-883d-4739-84f8-ea961f92b377",
+      "name": "Practical Soft Towels",
+      "color": "magenta",
+      "price": 934,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1628919913630,
+      "updatedAt": 1628919913630,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "2ca33850-3cd4-4d21-9c71-41a453974ed0",
+      "id": "ce039b21-9875-4c07-b67f-2217b80c029e",
+      "name": "Generic Granite Cheese",
+      "color": "azure",
+      "price": 997,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1628919913630,
+      "updatedAt": 1628919913630,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "6d494c00-0445-4d47-a5c4-89d094044f3d",
+      "name": "Gorgeous Plastic Car",
+      "color": "lime",
+      "price": 214,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "thumbnailUrl": "http://placeimg.com/400/400",
+      "createAt": 1628920668621,
+      "id": "POpZfEM"
+    },
+    {
+      "categoryId": "6d494c00-0445-4d47-a5c4-89d094044f3d",
+      "name": "Gorgeous Plastic Car",
+      "color": "lime",
+      "price": 214,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "thumbnailUrl": "http://placeimg.com/400/400",
+      "createAt": 1628920807088,
+      "updatedAt": 1628920807088,
+      "id": "Jef4f_C"
+    },
+    {
+      "categoryId": "6d494c00-0445-4d47-a5c4-89d094044f3d",
+      "name": "Gorgeous Plastic Car Update",
+      "color": "red",
+      "price": 950,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "thumbnailUrl": "http://placeimg.com/400/400",
+      "createAt": 1628920834075,
+      "updatedAt": 1628920999423,
+      "id": "k-ONCs0"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}
